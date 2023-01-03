@@ -1,0 +1,28 @@
+body {
+    background-color: #f37520;
+}
+
+header {
+    background-color: #fff;
+    margin: 2vh auto;
+    min-height: 10vh;
+}
+nav, main {
+    min-height: 82vh;
+    background-color: white;
+}
+
+@media (min-width: 576px) {
+    
+}
+
+@media (min-width: 768px) {
+   
+}
+@media (min-width: 992px) {
+ 
+}
+
+@media (min-width: 1200px) {
+   
+}
